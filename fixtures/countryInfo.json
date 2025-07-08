@@ -552,11 +552,11 @@
   },
   "Croatia": {
     "code": "hr",
-    "currency": "HRK",
-    "currency_fraction": "Lipa",
+    "currency": "EUR",
+    "currency_fraction": "Cent",
     "currency_fraction_units": 100,
-    "currency_name": "Croatian Kuna",
-    "currency_symbol": "kn",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
     "timezones": ["Europe/Zagreb"],
     "locale": "hr-HR"
   },
